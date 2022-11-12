@@ -8,5 +8,13 @@
 
 ## Data Visualisation with PowerBI
 
-* [PowerBI](https://powerbi.microsoft.com/en-us/learning/)
+* [PowerBI](PowerBI)
+
+## Data Visualisation with Tableau
+
+* [Tableau](https://www.tableau.com/learn)
+
+## Data Visualisation with QuickSight
+
+* [Amazon QuickSight](QuickSight)
 
