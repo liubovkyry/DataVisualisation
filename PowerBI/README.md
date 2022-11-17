@@ -11,3 +11,5 @@ https://app.datacamp.com/learn/courses/data-visualization-in-power-bi
 
 
 ## Books
+
+**Pro Power BI Desktop** by Adam Aspin, 3rd ed 2020
