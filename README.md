@@ -18,4 +18,6 @@
 
 * [Amazon QuickSight](QuickSight)
 
+* [Streamlit](Streamlit)
+
 [Data Visualisation with Streamlit](https://streamlit.io/gallery)
