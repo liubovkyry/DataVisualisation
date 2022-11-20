@@ -13,7 +13,11 @@ https://app.datacamp.com/learn/courses/introduction-to-dax-in-power-bi
 
 https://app.datacamp.com/learn/courses/data-visualization-in-power-bi
 
+https://docs.microsoft.com/en-us/power-bi/guidance/star-schema
+
 
 ## Books
 
 **Pro Power BI Desktop** by Adam Aspin, 3rd ed 2020
+
+
