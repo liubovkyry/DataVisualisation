@@ -9,13 +9,21 @@ https://powerbi.microsoft.com/en-ie/
 
 https://app.datacamp.com/learn/skill-tracks/power-bi-fundamentals
 
+https://app.datacamp.com/learn/career-tracks/data-analyst-in-power-bi
+
 https://app.datacamp.com/learn/courses/introduction-to-dax-in-power-bi
 
 https://app.datacamp.com/learn/courses/data-visualization-in-power-bi
 
 https://docs.microsoft.com/en-us/power-bi/guidance/star-schema
 
+## LinkedIn Learning courses
+
 https://www.linkedin.com/learning/power-bi-data-methods/the-power-bi-ecosystem?autoplay=true
+
+## CloudAcademy courses
+
+https://cloudacademy.com/learning-paths/pl-300-exam-prep-power-bi-data-analyst-associate-1-4799/
 
 
 
