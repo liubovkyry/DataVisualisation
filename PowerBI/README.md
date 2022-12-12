@@ -32,6 +32,8 @@ https://cloudacademy.com/learning-paths/pl-300-exam-prep-power-bi-data-analyst-a
 #### DAX
 https://learn.microsoft.com/en-us/dax/
 
+https://www.youtube.com/playlist?list=PLhWY2Oa5nhhG2onrAL3NhVoXPAnqTh18x
+
 
 
 ## Books
