@@ -34,6 +34,10 @@ https://learn.microsoft.com/en-us/dax/
 
 https://www.youtube.com/playlist?list=PLhWY2Oa5nhhG2onrAL3NhVoXPAnqTh18x
 
+#### DAX Studio Tutorials
+Writing DAX Queries
+
+https://daxstudio.org/docs/tutorials/writing-dax-queries/
 
 
 ## Books
