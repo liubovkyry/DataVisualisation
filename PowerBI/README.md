@@ -19,7 +19,9 @@ https://docs.microsoft.com/en-us/power-bi/guidance/star-schema
 
 ## LinkedIn Learning courses
 
+#### Power BI Data Methods
 https://www.linkedin.com/learning/power-bi-data-methods/the-power-bi-ecosystem?autoplay=true
+
 
 ## CloudAcademy courses
 
