@@ -41,6 +41,8 @@ Writing DAX Queries
 
 https://daxstudio.org/docs/tutorials/writing-dax-queries/
 
+###### Dataset permissions
+https://learn.microsoft.com/en-us/power-bi/connect-data/service-datasets-permissions
 
 ## Books
 
