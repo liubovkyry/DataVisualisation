@@ -1,6 +1,11 @@
+### <i>Note</i>
+ 
+
+ <i> Some organizations do prefer not to use custom visuals for other security reasons. Before you import visuals, check with your organization to see whether custom visuals are allowed or not. If they are not allowed you can still create reports in Power BI desktop with them, but they <b>will not render</b> inside of the Power BI service.</i>
 
 # Box and Whisker chart by MAQ Software
-
+ 
+  
 ![image](https://user-images.githubusercontent.com/118057504/218453717-854d0eb3-ac67-4eec-ba84-4c4c6707a7a2.png)
 ![image](https://user-images.githubusercontent.com/118057504/218453860-1b7e1cc6-0f5d-4717-bafa-6c0be4cdb112.png)
 
