@@ -87,3 +87,47 @@ https://www.datylon.com/resources/chart-library/dot-plot
 #### ❌ Bad choice: Grouped bar/column chart
 ![image](https://github.com/liubovkyry/DataVisualization/assets/118057504/a4de05f9-a09b-4576-9733-7abd972cd928)
 Grouped bar charts are usually based on the color differences of the bars of the same group. This makes it difficult to read for colorblind users. With a large number of categories, this chart becomes unreadable to everyone.
+
+### Correlation charts
+ 
+
+#### ✅ Good choice: Bubble chart
+![image](https://github.com/liubovkyry/DataVisualization/assets/118057504/bb5a95ad-d6ef-43af-84e1-e2a448f34089)
+
+It can be easily used without color. X- and Y- axes, size, and different icons provide 4 dimensions already which is easily enough for most of the visualization tasks.
+
+#### ❌ Bad choice: Heatmap
+
+![image](https://github.com/liubovkyry/DataVisualization/assets/118057504/ce09ef28-43e6-4121-abd1-d5b2e8e2102a)
+
+Heatmaps are heavily dependent on color, so the only way to make it safe for colorblind readers is to use one hue or grayscale palette.
+
+### Part-to-whole & hierarchical charts
+
+#### ✅ Good choice: Icon array
+
+![image](https://github.com/liubovkyry/DataVisualization/assets/118057504/4b737d7f-2e05-4dec-b511-d23563d4d3a1)
+
+Icon array is a rare case of a part-to-whole chart that doesn’t depend on colored areas or sectors. With the use of icons instead of color differentiation, this chart becomes a preferable chart type for colorblind people among all part-to-whole charts.
+
+#### ❌ Bad choice: Treemap
+
+![image](https://github.com/liubovkyry/DataVisualization/assets/118057504/5750f6dc-f98d-4ec0-8e15-be98c739235e)
+Similar to heatmaps, treemaps are famous for their extensive use of color. Surely, a treemap can be made also with a mono hue palette or just with the help of stroke borders, but the lack of color will weaken its visual strength, especially if a complex hierarchical structure should be presented. One of the things that can save a treemap is spacing between cells.
+
+### Date over time charts
+ 
+
+#### ✅ Good choice: Line chart
+
+![image](https://github.com/liubovkyry/DataVisualization/assets/118057504/2094bc73-e5e1-4edf-b1b7-dea6110d822d)
+
+The simplest and most flexible temporal chart that can be modified in various ways to make it readable for a colorblind audience. In the case of multiple categories, the line width can be modified as well as various types of dashed strokes. Direct labels and data marks can also be used to differentiate lines.
+
+https://www.datylon.com/resources/chart-library/line-chart
+
+#### ❌ Bad choice: Streamgraph
+
+![image](https://github.com/liubovkyry/DataVisualization/assets/118057504/b1e1b75f-270f-4bda-ba53-5b3e286c986b)
+
+A very beautiful chart, but helpless without color. It loses its attractiveness and readability right away.
