@@ -61,4 +61,14 @@ For line charts and their variations, dashed lines and lines with various stroke
 
 ![image](https://github.com/liubovkyry/DataVisualization/assets/118057504/bac11814-f899-4ce3-b529-e4d622858d5e)
 
+Adding strokes around chart elements might also help to distinguish one element from the other if the color might look the same for color-blind users.
 
+![image](https://github.com/liubovkyry/DataVisualization/assets/118057504/17ed931f-d7b4-4e2c-8ac4-7d57d8173817)
+
+If the usage of color is inevitable try to use a single hue palette. It will make the chart readable for all kinds of color blindness including monochromacy (when no color can be recognized). The second option is to use a red-yellow-blue palette. It will work for all kinds of color blindness except monochromacy.
+
+![image](https://github.com/liubovkyry/DataVisualization/assets/118057504/62729719-6414-45fb-a1df-c189498101ee)
+
+Use color for groups, not the individual categories. By doing that the number of colors will be reduced, as well as visual clutter and the possibility of color confusion.
+
+![image](https://github.com/liubovkyry/DataVisualization/assets/118057504/f276deb3-01ea-4442-8d28-7ada91a49566)
