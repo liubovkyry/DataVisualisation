@@ -26,7 +26,7 @@ Part-to-whole & hierarchical charts
 Data over time charts
 Distribution
 
-5. Further reading and resources
+
 
    ## What colors can color blind people see?
 Actually, it depends on what type of cones don't work. There are three common types: protanopia (red-blind), deuteranopia (green-blind), and tritanopia (blue-blind). There can also be an intermediate state, color weakness - when the colors can be distinguished but some of the hue details are lost. There’s also a very rare state when all the cones are not working and the person is completely color blind – it’s called complete achromatopsia. In the next picture, the simulation of what colors can color blind people see is presented.
@@ -131,3 +131,16 @@ https://www.datylon.com/resources/chart-library/line-chart
 ![image](https://github.com/liubovkyry/DataVisualization/assets/118057504/b1e1b75f-270f-4bda-ba53-5b3e286c986b)
 
 A very beautiful chart, but helpless without color. It loses its attractiveness and readability right away.
+
+### Distribution
+ 
+
+#### ✅ Good choice: Density and ridgeline plots
+
+![image](https://github.com/liubovkyry/DataVisualization/assets/118057504/e7264565-0216-4670-bebb-f5058cba8142)
+A good choice for visualizing both single and multiple distributions. Opacity and direct labels can substitute the need for coloring.
+
+#### ❌ Bad choice: One-dimensional heatmap
+
+![image](https://github.com/liubovkyry/DataVisualization/assets/118057504/a73f68f2-788d-4c0c-bd82-b656cfe7ceb0)
+A one-dimensional heatmap can quickly become a bad choice if multiple colors are used. One hue palette can work pretty well though.
