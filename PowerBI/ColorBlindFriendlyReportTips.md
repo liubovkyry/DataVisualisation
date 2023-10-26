@@ -1,6 +1,6 @@
 # The best charts for color blind viewers
 
-
+Source: https://www.datylon.com/blog/data-visualization-for-colorblind-readers#:~:text=The%20first%20rule%20of%20making,out%20of%20these%20two%20hues.
 
 
 
@@ -35,3 +35,30 @@ Actually, it depends on what type of cones don't work. There are three common ty
 
 ## Color blind palette
 The picture below shows that for all of the types of color blindness there is a pair of colors that can be distinguished – red and blue – these are color blind safe colors. As for the green, it is the number one among the colors to avoid for the color blind. Most of the issues for colorblind people come from the prevalence of red-and-green combinations as a pair of opposites in design. The first rule of making a palette for colorblind – avoid combining red and green. So if you’re aiming to create a color blind-friendly palette try to use only two basic hues: blue and red (orange and yellow will also fit). The other colors should be made out of these two hues. All the variations can be made by using different saturation or lightness of the basic color. Based on these rules we’ve created a color blind palette and checked it for three color blindness types. 
+
+![image](https://github.com/liubovkyry/DataVisualization/assets/118057504/c2c6fcdc-d547-4c83-86eb-ac5020847e03)
+
+As you can see the palette worked for all types of color blindness, but you should always be aware that the variation of color-blind colors can vary significantly from person to person, so it’s always important to double-check. If you have a friend who is colorblind – ask for feedback. Alternatively, you can look up a colorblind community online and reach out to them. Don’t forget about people with complete color blindness and remember that 100% best colors for colorblind are black and white. So if your visualization works in greyscale you should be safe. Another advantage of using black and white data visualization is that they’re print-ready. But remember, if the palette is grayscale one should use other tools to distinguish chart elements.
+
+There are a few tools that can help you to check your visuals. For this article, a color-blind simulator was used from the Colorblindor website.
+
+https://www.color-blindness.com/2016/10/27/new-release-of-color-blindness-simulator/
+
+There’s also a helpful internal tool in Adobe Illustrator. You can access it under View > Proof Setup > Color-Blindness - Protanopia-type or Deuteranopia-type.
+
+## How to make charts color blind friendly?
+Use shapes and icons as an addition or alternative to color-coding. In case one needs to use colors that are not perceptible by colorblind users, a chart can be saved by using icons as an addition to color, duplicating its informational function.
+
+![image](https://github.com/liubovkyry/DataVisualization/assets/118057504/d767d385-e68d-46e3-b9ca-35dd9dbccc9b)
+
+Typically, it’s better to use direct labels instead of a legend – it saves the time and attention of a reader. Another advantage of direct labels is its ability to fix the usage of palettes that are not color blind friendly.
+
+![image](https://github.com/liubovkyry/DataVisualization/assets/118057504/670a03b5-5d47-4c3c-b3fc-1003e0db99c1)
+
+
+
+For line charts and their variations, dashed lines and lines with various stroke thicknesses can be a very helpful alternative to coloring.
+
+![image](https://github.com/liubovkyry/DataVisualization/assets/118057504/bac11814-f899-4ce3-b529-e4d622858d5e)
+
+
