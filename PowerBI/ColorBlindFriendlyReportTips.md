@@ -72,3 +72,18 @@ If the usage of color is inevitable try to use a single hue palette. It will mak
 Use color for groups, not the individual categories. By doing that the number of colors will be reduced, as well as visual clutter and the possibility of color confusion.
 
 ![image](https://github.com/liubovkyry/DataVisualization/assets/118057504/f276deb3-01ea-4442-8d28-7ada91a49566)
+
+### Comparison charts
+ 
+
+#### ✅ Good choice: Dot plot (and Parallel coordinates)
+![image](https://github.com/liubovkyry/DataVisualization/assets/118057504/3809b335-ae8a-4f8a-8626-e33d8eaf7e40)
+
+Dot plot could be both great and challenging. If the color is used for dot differentiation – it won’t work well. But if the dots are substituted with different colors per category it will make a very good choice for comparison of multiple categories at the same time.
+
+Check this resource page and learn how to design the best dot plots that will impress your audience.
+https://www.datylon.com/resources/chart-library/dot-plot
+
+#### ❌ Bad choice: Grouped bar/column chart
+![image](https://github.com/liubovkyry/DataVisualization/assets/118057504/a4de05f9-a09b-4576-9733-7abd972cd928)
+Grouped bar charts are usually based on the color differences of the bars of the same group. This makes it difficult to read for colorblind users. With a large number of categories, this chart becomes unreadable to everyone.
