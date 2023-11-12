@@ -20,7 +20,7 @@
 
 * [Streamlit](Streamlit)
 
-[Data Visualization with Streamlit](https://streamlit.io/gallery)
+* [Data Visualization with Streamlit](https://streamlit.io/gallery)
 
 
 ## References
